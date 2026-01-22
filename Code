@@ -2,7 +2,8 @@
 ###
 ### Code illustrating the analyses in:
 ###
-### Non-Optimal Temperature and Life Table in Europe
+### Life expectancy reductions attributable to non-optimal temperature
+###   in Europe: a population-based modelling study
 ### https://github.com/learner-ljt/temp_life_eu/tree/main
 ###
 ### Note: This is a simplified code with sample data, results are expected to
